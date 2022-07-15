@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KyonQi
 - 👀 A sophomore in BIT, trying to learn something intriguing 
-- 📫 Welcome to reach me by kyon942755317@hotmail.com
+- 📫 Welcome to reach me by kyonqi@foxmail.com
 
 <!---
 KyonQi/KyonQi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
