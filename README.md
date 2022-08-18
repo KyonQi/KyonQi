@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KyonQi
-- 👀 A sophomore in BIT, trying to learn something intriguing 
+- 👀 A junior in BIT, trying to learn something intriguing 
 - 📫 Welcome to reach me by kyonqi@foxmail.com
 
 <!---
