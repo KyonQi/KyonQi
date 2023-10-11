@@ -1,5 +1,5 @@
 # Introduction
-- 👋 Hi, I’m Qi, Hong
+- 👋 Hi, I’m Qi Hong
 - 👀 Year 4 student at Beijing Institute of Technology, majoring automation
 - 📫 Welcome to reach me by qhong0912@gmail.com
 # Project Demonstration
