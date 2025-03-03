@@ -3,6 +3,7 @@
 - 👀 Master student (1st year now) in Delft University of Technology, majoring Computer & Embedded System Engineering
 - 📫 Welcome to reach me by qhong0912@gmail.com
 # Project Demonstration
+- A OS written by Rust in RISC-V QEMU: [Click here](https://github.com/KyonQi/rustCore)
 - A Nintendo Entertainment System (NES) Emulator by Cpp: [Click here](https://github.com/KyonQi/NES-Emulator-Cpp)
 - A Coroutine Scheduler by Cpp: [Click here](https://github.com/KyonQi/CoRoutine/tree/IOController)
 - A Tiny Webserver by Cpp: [Click here](https://github.com/KyonQi/MyWebServer)
