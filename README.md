@@ -4,7 +4,7 @@
 - 📫 Welcome to reach me by qhong0912@gmail.com
 # Project Demonstration
 - A OS written by Rust in RISC-V QEMU: [Click here](https://github.com/KyonQi/rustCore)
-- A Nintendo Entertainment System (NES) Emulator by Cpp: [Click here](https://github.com/KyonQi/NES-Emulator-Cpp)
+# - A Nintendo Entertainment System (NES) Emulator by Cpp: [Click here](https://github.com/KyonQi/NES-Emulator-Cpp)
 - A Coroutine Scheduler by Cpp: [Click here](https://github.com/KyonQi/CoRoutine/tree/IOController)
 - A Tiny Webserver by Cpp: [Click here](https://github.com/KyonQi/MyWebServer)
 - Search Engine Project Demonstration Video: [Click here](https://youtu.be/fWR75BP1nbo)
