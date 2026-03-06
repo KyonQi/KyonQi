@@ -1,6 +1,7 @@
 # Introduction
 - 👋 Hi, I’m Qi Hong
 - 👀 Master student (2nd year now) in Delft University of Technology, majoring Computer & Embedded System Engineering
+- 📝 Welcome to visit my blog: [kyonqi.github.io](https://kyonqi.github.io/)
 - 📫 Welcome to reach me by qhong0912@gmail.com
 # Project Demonstration
 - A OS written by Rust in RISC-V QEMU: [Click here](https://github.com/KyonQi/rustCore)
