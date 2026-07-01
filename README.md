@@ -4,7 +4,8 @@
 - 📝 Welcome to visit my blog: [kyonqi.github.io](https://kyonqi.github.io/)
 - 📫 Welcome to reach me by qhong0912@gmail.com
 # Project Demonstration
-- A OS written by Rust in RISC-V QEMU: [Click here](https://github.com/KyonQi/rustCore)
+- Split CNN Inference on Networked Microcontrollers: [Click here](https://github.com/KyonQi/Split-Infer-MCUs) (Best paper runner-up in IEEE WoWMoM 2026)
+- A OS Written by Rust in RISC-V QEMU: [Click here](https://github.com/KyonQi/rustCore)
 - A Coroutine Scheduler by Cpp: [Click here](https://github.com/KyonQi/CoRoutine/tree/IOController)
 - A Tiny Webserver by Cpp: [Click here](https://github.com/KyonQi/MyWebServer)
 - Search Engine Project Demonstration Video: [Click here](https://youtu.be/fWR75BP1nbo)
